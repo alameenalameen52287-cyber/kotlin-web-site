@@ -1,4 +1,4 @@
-[//]: # (title: Welcome to our tour of Kotlin!)
+no[//]: # (title: Welcome to our tour of Kotlin!)
 
 > These tours can be completed entirely within your browser. There is no installation required.
 > 
